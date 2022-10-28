@@ -1,1 +1,12 @@
-"·<NOMBRE><APELLIDO>"<<README.MD
+CD <PROYECTO>
+echo "#<PEDRO><MURILLO>">>README.MD
+echo "#<JOSE><VANEGAS>">>README.MD
+echo "#<YORLAND><BERROETA>">>README.MD
+Echo "--pycache--/">.gitignore
+Echo "*.log">>.gitignore
+git init
+git add.
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/<USER>/test-uneti-git.git t
+git push -u origin main
